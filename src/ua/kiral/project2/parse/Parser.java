@@ -1,9 +1,9 @@
-package com.epam.kiral.project2.parse;
+package ua.kiral.project2.parse;
 
 import java.util.List;
 import java.util.regex.Pattern;
 
-import com.epam.kiral.project2.text.Sentence;
+import ua.kiral.project2.text.Sentence;
 
 public interface Parser {
 	/**

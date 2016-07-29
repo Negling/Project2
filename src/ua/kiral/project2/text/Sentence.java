@@ -1,4 +1,4 @@
-package com.epam.kiral.project2.text;
+package ua.kiral.project2.text;
 
 import java.util.Iterator;
 import java.util.List;

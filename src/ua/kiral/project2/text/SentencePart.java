@@ -1,4 +1,4 @@
-package com.epam.kiral.project2.text;
+package ua.kiral.project2.text;
 public interface SentencePart {
 	enum Type {
 		WORD, CHAR, PUNCTUATION

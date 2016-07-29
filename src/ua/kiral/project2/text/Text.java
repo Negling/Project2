@@ -1,9 +1,9 @@
-package com.epam.kiral.project2.text;
+package ua.kiral.project2.text;
 
 import java.util.Iterator;
 import java.util.List;
 
-import com.epam.kiral.project2.parse.Parser;
+import ua.kiral.project2.parse.Parser;
 
 public class Text {
 	private List<Sentence> sentences;

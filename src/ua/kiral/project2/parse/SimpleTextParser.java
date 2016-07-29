@@ -1,14 +1,14 @@
-package com.epam.kiral.project2.parse;
+package ua.kiral.project2.parse;
 
 import java.util.LinkedList;
 import java.util.List;
 import java.util.regex.Matcher;
 
-import com.epam.kiral.project2.text.Char;
-import com.epam.kiral.project2.text.Sentence;
-import com.epam.kiral.project2.text.SentencePart;
-import com.epam.kiral.project2.text.Word;
-import com.epam.kiral.project2.text.SentencePart.Type;
+import ua.kiral.project2.text.Char;
+import ua.kiral.project2.text.Sentence;
+import ua.kiral.project2.text.SentencePart;
+import ua.kiral.project2.text.Word;
+import ua.kiral.project2.text.SentencePart.Type;
 
 /**
  * This is an util class, required to parse raw text into list of sentences, and

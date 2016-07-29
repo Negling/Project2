@@ -1,11 +1,11 @@
-package com.epam.kiral.project2.demo;
+package ua.kiral.project2.demo;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
 
-import com.epam.kiral.project2.parse.SimpleTextParser;
-import com.epam.kiral.project2.text.Text;
+import ua.kiral.project2.parse.SimpleTextParser;
+import ua.kiral.project2.text.Text;
 
 /**
  * Simple class-demonstration. It's Alive!
